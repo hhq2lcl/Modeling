@@ -6,13 +6,13 @@
 二. 特征工程    
 三. 模型选择   
 四. 结果保存    
-五. 其他一些乱七八糟的想法   
+五. 其他想法   
 六. 总结
 
 
 评分卡建模流程可以参考：       
 
-[自己总结的评分卡建模流程](https://blog.csdn.net/q337100/article/details/80693548)     
+[评分卡建模流程](https://blog.csdn.net/q337100/article/details/80693548)     
 [评分卡建模python代码(转)](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA%3D%3D&idx=1&mid=2247485060&sn=0c731277f0b4593de9dc5dac2dc67fef)
 
 #### 样本选择
